@@ -12,5 +12,3 @@
   (define nsub1 sub1))
 
 (provide simple-nat-base@)
-
-

@@ -11,5 +11,3 @@
         [((N : nat^)) nat@ C]))
 
 (provide simple-nat@)
-
-
