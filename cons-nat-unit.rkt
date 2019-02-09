@@ -7,7 +7,7 @@
 (define-compound-unit cons-nat@
   (import)
   (export C N)
-  (link [((C : nat-base^)) cons-nat-base@ N]
+  (link [((C : nat-base^)) cons-nat-base@]
         [((N : nat^)) nat@ C]))
 
 (provide cons-nat@)
